@@ -1,7 +1,9 @@
 package Play;
 
 import java.util.Scanner;
-
+/**
+*干嘛听苦情歌以为多浪漫  芜湖!!!!!
+*/
 public class PlayRandom {
     public static void main(String[] args) {
         int you = (int) (100*Math.random());
